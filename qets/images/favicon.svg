@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="31" fill="rgb(232,163,61)"/>
+  <circle cx="32" cy="32" r="27" fill="rgb(15,42,46)"/>
+  <circle cx="32" cy="24" r="8" fill="rgb(232,163,61)"/>
+  <path d="M10 46 C18 40, 24 44, 30 39 C36 34, 42 42, 54 40 L54 50 L10 50 Z" fill="rgb(27,75,79)"/>
+  <text x="32" y="46" text-anchor="middle" font-family="Georgia, serif" font-weight="800" font-size="13" fill="rgb(243,241,236)">QE</text>
+</svg>
